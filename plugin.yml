@@ -1,0 +1,11 @@
+---
+name: Mekan
+version: 0.0.1
+main: HakanBabus\Mekan\Main
+api: 3.25.4
+
+commands:
+ mekan:
+  description: İstediğin Yere Işınlan!
+
+
